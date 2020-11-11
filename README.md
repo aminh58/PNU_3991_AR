@@ -45,25 +45,25 @@
     <th>روز</th>
   </tr>
   <tr>
-    <th ></th>
-    <th ></th>
     <th >کارآموزی و پروژه</th>
-    <th>کارآموزی و پروژه</th>
-    <th>کارآموزی و پروژه</th>
+    <th >کارآموزی و پروژه</th>
+    <th >فعالیت کاری</th>
+    <th>فعالیت کاری</th>
+    <th>فعالیت کاری</th>
     <th>شنبه</th>
   </tr>
    <tr>
-    <th ></th>
-    <th ></th>
-    <th>کارآموزی و پروژه</th>
-    <th>کارآموزی و پروژه</th>
-    <th >کارآموزی و پروژه</th>
+    <th >آزمایشگاه</th>
+    <th >بازیابی اطلاعت</th>
+    <th>مباحث ویژه</th>
+    <th>اینترنت اشیا</th>
+    <th >اینترنت اشیا</th>
     <th>یک شنبه</th>
   </tr>
    <tr>
-     <th ></th>
+     <th >مدار منطقی</th>
      <th ><a  href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/ResearchAndPresentationMethods">روش پژوهش و ارائه</a></th>
-     <th></th>
+     <th>مطالعه و پژوهش</th>
      <th><a  href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/HumanComputerInteraction">تعامل انسان و کامپیوتر</a></th>
     <th ></th>   
     <th>دوشنبه</th>
@@ -71,13 +71,13 @@
    <tr>
     <th ></th>
     <th ></th>
-    <th>کارآموزی و پروژه</th>
-    <th>کارآموزی و پروژه</th>
-    <th >کارآموزی و پروژه</th>
+    <th>فعالیت کاری</th>
+    <th>فعالیت کاری</th>
+    <th >فعالیت کاری</th>
     <th>سه شنبه</th>
   </tr>
    <tr>
-    <th ></th>
+    <th >مطالعه و پژوهش</th>
     <th ></th>
     <th>کارآموزی و پروژه</th>
     <th>کارآموزی و پروژه</th>
