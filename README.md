@@ -77,10 +77,10 @@
     <th>سه شنبه</th>
   </tr>
    <tr>
-    <th >مطالعه و پژوهش</th>
-    <th ></th>
-    <th>کارآموزی و پروژه</th>
-    <th>کارآموزی و پروژه</th>
+    <th ><a  href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Project/1322094_02/01_%D8%B3%D9%8A%D8%AF%D8%A7%D9%85%D9%8A%D9%86%20%D8%AD%D8%B3%D9%8A%D9%86%D9%8A">پروژه پایانی</a></th>
+    <th ><a  href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Project/1322094_02/01_%D8%B3%D9%8A%D8%AF%D8%A7%D9%85%D9%8A%D9%86%20%D8%AD%D8%B3%D9%8A%D9%86%D9%8A">پروژه پایانی</a></th>
+    <th><a  href="https://github.com/AliRazavi-edu/PNU_3991/commit/d6b34c536b42e6d0c49a16f7fb225cf70906201b#diff-21ec0cba1e0f73e0bcb0287d6fdbf5aeafc37927dea8736ea637212b48cf07a8">کارآموزی</a></th>
+    <th><a  href="https://github.com/AliRazavi-edu/PNU_3991/commit/d6b34c536b42e6d0c49a16f7fb225cf70906201b#diff-21ec0cba1e0f73e0bcb0287d6fdbf5aeafc37927dea8736ea637212b48cf07a8">کارآموزی</a></th>
     <th>کارآموزی و پروژه</th>
     <th>چهارشنبه</th>
   </tr>
