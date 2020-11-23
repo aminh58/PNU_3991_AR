@@ -1,4 +1,4 @@
-# -PNU_3991_AR
+# PNU_3991_AR
 ---------
 # سید امین حسینی
 - [PNU_3991_AR](https://github.com/aminh58/-PNU_3991_AR)
