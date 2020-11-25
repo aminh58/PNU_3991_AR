@@ -12,7 +12,7 @@
 
 1. G-A01
      1. [_HCI-11_سید امین حسینی](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/HumanComputerInteraction/11_%D8%B3%D9%8A%D8%AF%D8%A7%D9%85%D9%8A%D9%86%20%D8%AD%D8%B3%D9%8A%D9%86%D9%8A)    
-    
+    2. [HCI-30 صبا مقدم زرندی](https://github.com/AliRazavi-edu/PNU_3991/commit/ae1b7c2a1634ef1958a26d0489721e2258851b95#diff-04553dba008cd3e3f3332cdeb140d867eaf4ec61495b07b7224119c52e7c34cd)
  
  
  2. G-S01
