@@ -13,8 +13,10 @@
 1. G-H01
      1. [_HCI-11_سید امین حسینی](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/HumanComputerInteraction/11_%D8%B3%D9%8A%D8%AF%D8%A7%D9%85%D9%8A%D9%86%20%D8%AD%D8%B3%D9%8A%D9%86%D9%8A)    
     2. [HCI-30 صبا مقدم زرندی](https://github.com/AliRazavi-edu/PNU_3991/commit/ae1b7c2a1634ef1958a26d0489721e2258851b95#diff-04553dba008cd3e3f3332cdeb140d867eaf4ec61495b07b7224119c52e7c34cd)
- 
- 2. G-R01
+    3. [HCI-19 مجمد عابدی](https://github.com/AliRazavi-edu/PNU_3991/commit/ae1b7c2a1634ef1958a26d0489721e2258851b95#diff-f1a30dff47deeeaa68ed02c84f7baa45a09172e1c61d2840cb7bf3b806d3372c)
+    4. [HCI-33 حمید رضا میرزایی](https://github.com/AliRazavi-edu/PNU_3991/commit/ae1b7c2a1634ef1958a26d0489721e2258851b95#diff-73b45caf9fd2c081f62819bf8cf99bd48c86c9442e81065bfc715269b66eead1)
+   
+  2. G-R01
      1. [_RPM-14_سید امین حسینی](https://github.com/AliRazavi-edu/PNU_3991/commit/cdb617382a96e82452223befc050d5b7f8a6daca#diff-06c4fa01a21f756632d5d2e9626d30245c09dc84ede9a6233ecc740b8a232feb)   
      2. [RPM-39 طاهره صفری](https://github.com/AliRazavi-edu/PNU_3991/commit/cdb617382a96e82452223befc050d5b7f8a6daca#diff-1d8a2a1fb067bbcf7aa7adc8c1ac407f9223e940f19862741a9ebb859b999a6d)
      
