@@ -11,10 +11,10 @@
 ## گروه ها
 
 1. G-H01
-     1. [_HCI-11_سید امین حسینی](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/HumanComputerInteraction/11_%D8%B3%D9%8A%D8%AF%D8%A7%D9%85%D9%8A%D9%86%20%D8%AD%D8%B3%D9%8A%D9%86%D9%8A)    
-    2. [HCI-30 صبا مقدم زرندی](https://github.com/AliRazavi-edu/PNU_3991/commit/ae1b7c2a1634ef1958a26d0489721e2258851b95#diff-04553dba008cd3e3f3332cdeb140d867eaf4ec61495b07b7224119c52e7c34cd)
-    3. [HCI-19 مجمد عابدی](https://github.com/AliRazavi-edu/PNU_3991/commit/ae1b7c2a1634ef1958a26d0489721e2258851b95#diff-f1a30dff47deeeaa68ed02c84f7baa45a09172e1c61d2840cb7bf3b806d3372c)
-    4. [HCI-33 حمید رضا میرزایی](https://github.com/AliRazavi-edu/PNU_3991/commit/ae1b7c2a1634ef1958a26d0489721e2258851b95#diff-73b45caf9fd2c081f62819bf8cf99bd48c86c9442e81065bfc715269b66eead1)
+     1. [_HCI-11_سید امین حسینی](https://github.com/AliRazavi-edu/PNU_3991/blob/ae1b7c2a1634ef1958a26d0489721e2258851b95/_BSc/HumanComputerInteraction/1322108_01/11_%D8%B3%D9%8A%D8%AF%D8%A7%D9%85%D9%8A%D9%86%20%D8%AD%D8%B3%D9%8A%D9%86%D9%8A/readme.md)    
+    2. [HCI-30 صبا مقدم زرندی](https://github.com/AliRazavi-edu/PNU_3991/blob/ae1b7c2a1634ef1958a26d0489721e2258851b95/_BSc/HumanComputerInteraction/1322108_01/30_%D8%B5%D8%A8%D8%A7%20%D9%85%D9%82%D8%AF%D9%85%20%D8%B2%D8%B1%D9%86%D8%AF%D9%8A/readme.md)
+    3. [HCI-19 مجمد عابدی](https://github.com/AliRazavi-edu/PNU_3991/blob/ae1b7c2a1634ef1958a26d0489721e2258851b95/_BSc/HumanComputerInteraction/1322108_01/19_%D9%85%D8%AD%D9%85%D8%AF%20%D8%B9%D8%A7%D8%A8%D8%AF%D9%8A/readme.md)
+    4. [HCI-33 حمید رضا میرزایی](https://github.com/AliRazavi-edu/PNU_3991/blob/ae1b7c2a1634ef1958a26d0489721e2258851b95/_BSc/HumanComputerInteraction/1322108_01/33_%D8%AD%D9%85%D9%8A%D8%AF%D8%B1%D8%B6%D8%A7%20%D9%85%D9%8A%D8%B1%D8%B2%D8%A7%D9%8A%D9%8A/readme.md)
     5. [HCI-07 محدثه بیدخام](https://github.com/AliRazavi-edu/PNU_3991/blob/ae1b7c2a1634ef1958a26d0489721e2258851b95/_BSc/HumanComputerInteraction/1322108_01/07_%D9%85%D8%AD%D8%AF%D8%AB%D9%87%20%D8%A8%D9%8A%D8%AF%D8%AE%D8%A7%D9%85/readme.md)
    
   2. G-R01
