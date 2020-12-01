@@ -18,14 +18,14 @@
     5. [HCI-07 محدثه بیدخام](https://github.com/AliRazavi-edu/PNU_3991/blob/ae1b7c2a1634ef1958a26d0489721e2258851b95/_BSc/HumanComputerInteraction/1322108_01/07_%D9%85%D8%AD%D8%AF%D8%AB%D9%87%20%D8%A8%D9%8A%D8%AF%D8%AE%D8%A7%D9%85/readme.md)
    
   2. G-R01
-     1. [_RPM-14_سید امین حسینی](https://github.com/AliRazavi-edu/PNU_3991/commit/cdb617382a96e82452223befc050d5b7f8a6daca#diff-06c4fa01a21f756632d5d2e9626d30245c09dc84ede9a6233ecc740b8a232feb)   
-     2. [RPM-39 طاهره صفری](https://github.com/AliRazavi-edu/PNU_3991/commit/cdb617382a96e82452223befc050d5b7f8a6daca#diff-1d8a2a1fb067bbcf7aa7adc8c1ac407f9223e940f19862741a9ebb859b999a6d)
+     1. [_RPM-14_سید امین حسینی](https://github.com/AliRazavi-edu/PNU_3991/blob/cdb617382a96e82452223befc050d5b7f8a6daca/_BSc/ResearchAndPresentationMethods/1322010_02/14_%D8%B3%D9%8A%D8%AF%D8%A7%D9%85%D9%8A%D9%86%20%D8%AD%D8%B3%D9%8A%D9%86%D9%8A/readme.md)   
+     2. [RPM-39 طاهره صفری](https://github.com/AliRazavi-edu/PNU_3991/blob/cdb617382a96e82452223befc050d5b7f8a6daca/_BSc/ResearchAndPresentationMethods/1322010_01/39_%D8%B7%D8%A7%D9%87%D8%B1%D9%87%20%D8%B5%D9%81%D8%B1%D9%8A/readme.md)
      
  3. G-I01
-     1. [Int-02-05 سید امین حسینی ](https://github.com/AliRazavi-edu/PNU_3991/commit/d6b34c536b42e6d0c49a16f7fb225cf70906201b#diff-21ec0cba1e0f73e0bcb0287d6fdbf5aeafc37927dea8736ea637212b48cf07a8) 
-     2. [Int-02-03 زینب جلیلوند ](https://github.com/AliRazavi-edu/PNU_3991/commit/d6b34c536b42e6d0c49a16f7fb225cf70906201b#diff-eb0ec073562204cd5a172e68ed14e09b7c7b48525cc7aeff297133f75a2b3ea0)
-     3. [Int-02-12 زینب کرمی ](https://github.com/AliRazavi-edu/PNU_3991/commit/d6b34c536b42e6d0c49a16f7fb225cf70906201b#diff-ec80ef4f0d7503f819711153d45c912ad470bfd1d74b129c0ff4edbff871fd19) 
-     4. [Int-02-04 زهرا جناب زاده ](https://github.com/AliRazavi-edu/PNU_3991/commit/d6b34c536b42e6d0c49a16f7fb225cf70906201b#diff-7ee35a3f36cdfe6e3dc4db9a404b8c11932a389c1554550544b1ed4e82aced81)
+     1. [Int-02-05 سید امین حسینی ](https://github.com/AliRazavi-edu/PNU_3991/blob/d6b34c536b42e6d0c49a16f7fb225cf70906201b/_BSc/Internship/1322029_02/05_%D8%B3%D9%8A%D8%AF%D8%A7%D9%85%D9%8A%D9%86%20%D8%AD%D8%B3%D9%8A%D9%86%D9%8A/readme.md) 
+     2. [Int-02-03 زینب جلیلوند ](https://github.com/AliRazavi-edu/PNU_3991/blob/d6b34c536b42e6d0c49a16f7fb225cf70906201b/_BSc/Internship/1322029_02/03_%D8%B2%D9%8A%D9%86%D8%A8%20%D8%AC%D9%84%D9%8A%D9%84%D9%88%D9%86%D8%AF/readme.md)
+     3. [Int-02-12 زینب کرمی ](https://github.com/AliRazavi-edu/PNU_3991/blob/d6b34c536b42e6d0c49a16f7fb225cf70906201b/_BSc/Internship/1322029_02/12_%D8%B2%D9%8A%D9%86%D8%A8%20%D9%83%D8%B1%D9%85%D9%8A/readme.md) 
+     4. [Int-02-04 زهرا جناب زاده ](https://github.com/AliRazavi-edu/PNU_3991/blob/d6b34c536b42e6d0c49a16f7fb225cf70906201b/_BSc/Internship/1322029_02/04_%D8%B2%D9%87%D8%B1%D8%A7%20%D8%AC%D9%86%D8%A7%D8%A8%20%D8%B2%D8%A7%D8%AF%D9%87/readme.md)
      
      
  4. G-T01
