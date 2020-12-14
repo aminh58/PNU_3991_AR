@@ -9,7 +9,7 @@
 # سید امین حسینی
 - [PNU_3991_AR](https://github.com/aminh58/-PNU_3991_AR)
 - [Resume](https://aminh58.github.io/) 
-- [SOP](https://aminh58.github.io/SOP)
+- [SOP](https://aminh58.github.io/SOP.html)
 - [Certificates]()
 - [GitHub](https://github.com/aminh58)
 
