@@ -40,6 +40,9 @@
 ------------------
 ## Winter Semester Courses 1399/2020
 
+# درس مشابه از دانشگاه دیگر
+[دانشگاه کمبریج _تعامل انسان و کامپوتر	](https://www.cl.cam.ac.uk/teaching/1011/HCI/)
+
 ## دروس کارشناسی
 
 [1322108_01	11_تعامل انسان و کامپوتر	](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/HumanComputerInteraction)
