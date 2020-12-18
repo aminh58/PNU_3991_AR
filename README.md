@@ -10,7 +10,7 @@
 - [PNU_3991_AR](https://github.com/aminh58/-PNU_3991_AR)
 - [Resume](https://aminh58.github.io/) 
 - [SOP](https://aminh58.github.io/SOP)
-- [Certificates]()
+- [Certificates](https://www.sololearn.com/Certificate/1024-20638458/jpg)
 - [GitHub](https://github.com/aminh58)
 
 ------------------
