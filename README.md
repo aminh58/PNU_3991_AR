@@ -21,7 +21,7 @@
     2. [HCI-30 صبا مقدم زرندی](https://github.com/AliRazavi-edu/PNU_3991/blob/ae1b7c2a1634ef1958a26d0489721e2258851b95/_BSc/HumanComputerInteraction/1322108_01/30_%D8%B5%D8%A8%D8%A7%20%D9%85%D9%82%D8%AF%D9%85%20%D8%B2%D8%B1%D9%86%D8%AF%D9%8A/readme.md)
     3. [HCI-19 مجمد عابدی](https://github.com/AliRazavi-edu/PNU_3991/blob/ae1b7c2a1634ef1958a26d0489721e2258851b95/_BSc/HumanComputerInteraction/1322108_01/19_%D9%85%D8%AD%D9%85%D8%AF%20%D8%B9%D8%A7%D8%A8%D8%AF%D9%8A/readme.md)
     4. [HCI-33 حمید رضا میرزایی](https://github.com/AliRazavi-edu/PNU_3991/blob/ae1b7c2a1634ef1958a26d0489721e2258851b95/_BSc/HumanComputerInteraction/1322108_01/33_%D8%AD%D9%85%D9%8A%D8%AF%D8%B1%D8%B6%D8%A7%20%D9%85%D9%8A%D8%B1%D8%B2%D8%A7%D9%8A%D9%8A/readme.md)
-    5. [HCI-07 محدثه بیدخام](https://github.com/AliRazavi-edu/PNU_3991/blob/ae1b7c2a1634ef1958a26d0489721e2258851b95/_BSc/HumanComputerInteraction/1322108_01/07_%D9%85%D8%AD%D8%AF%D8%AB%D9%87%20%D8%A8%D9%8A%D8%AF%D8%AE%D8%A7%D9%85/readme.md)
+    
    
   2. G-R01
      1. [_RPM-14_سید امین حسینی](https://github.com/AliRazavi-edu/PNU_3991/blob/cdb617382a96e82452223befc050d5b7f8a6daca/_BSc/ResearchAndPresentationMethods/1322010_02/14_%D8%B3%D9%8A%D8%AF%D8%A7%D9%85%D9%8A%D9%86%20%D8%AD%D8%B3%D9%8A%D9%86%D9%8A/readme.md)   
