@@ -44,7 +44,9 @@
 
 ## درس مشابه از دانشگاه دیگر
 [دانشگاه کمبریج _تعامل انسان و کامپیوتر	](https://www.cl.cam.ac.uk/teaching/1011/HCI/)
-
+[Research Methods and Presentation Skills
+HSE University](https://www.hse.ru/en/edu/courses/219865124)
+	
 -------------------------------------
 ## گروه ها
 
