@@ -34,18 +34,18 @@
 
 ## دروس کارشناسی
 
-[1322108_01	11_تعامل انسان و کامپیوتر	](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/HumanComputerInteraction/1322108_01/11_%D8%B3%D9%8A%D8%AF%D8%A7%D9%85%D9%8A%D9%86%20%D8%AD%D8%B3%D9%8A%D9%86%D9%8A)
+[1322108_01_11_تعامل انسان و کامپیوتر	](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/HumanComputerInteraction/1322108_01/11_%D8%B3%D9%8A%D8%AF%D8%A7%D9%85%D9%8A%D9%86%20%D8%AD%D8%B3%D9%8A%D9%86%D9%8A)
 <br>
-[1322010 02 14 روش پژوهش و ارائه](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/ResearchAndPresentationMethods/1322010_02/14_%D8%B3%D9%8A%D8%AF%D8%A7%D9%85%D9%8A%D9%86%20%D8%AD%D8%B3%D9%8A%D9%86%D9%8A)
+[1322010_02_14 روش پژوهش و ارائه](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/ResearchAndPresentationMethods/1322010_02/14_%D8%B3%D9%8A%D8%AF%D8%A7%D9%85%D9%8A%D9%86%20%D8%AD%D8%B3%D9%8A%D9%86%D9%8A)
 <br>
-[1322029 02 	کارآموزی	](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Internship/1322029_02/05_%D8%B3%D9%8A%D8%AF%D8%A7%D9%85%D9%8A%D9%86%20%D8%AD%D8%B3%D9%8A%D9%86%D9%8A)
+[1322029_02 	کارآموزی](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Internship/1322029_02/05_%D8%B3%D9%8A%D8%AF%D8%A7%D9%85%D9%8A%D9%86%20%D8%AD%D8%B3%D9%8A%D9%86%D9%8A)
 <br>
-[1322094 02	پروژه پایانی	](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Project/1322094_02/01_%D8%B3%D9%8A%D8%AF%D8%A7%D9%85%D9%8A%D9%86%20%D8%AD%D8%B3%D9%8A%D9%86%D9%8A)
+[1322094_02	پروژه پایانی](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Project/1322094_02/01_%D8%B3%D9%8A%D8%AF%D8%A7%D9%85%D9%8A%D9%86%20%D8%AD%D8%B3%D9%8A%D9%86%D9%8A)
 
 ## درس مشابه از دانشگاه دیگر
 [دانشگاه کمبریج _تعامل انسان و کامپیوتر	](https://www.cl.cam.ac.uk/teaching/1011/HCI/)
-[Research Methods and Presentation Skills
-HSE University](https://www.hse.ru/en/edu/courses/219865124)
+[روش پژوهش و ارایه_ HSE University](https://www.cl.cam.ac.uk/teaching/1011/HCI/)
+
 	
 -------------------------------------
 ## گروه ها
