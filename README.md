@@ -24,7 +24,7 @@
 ## بخش دروس کارشناسی
 
 - [خلاصه ارزیابی درس تعامل انسان و کامپیوتر](https://github.com/aminh58/PNU_3991_AR/blob/main/HCI/SAH_HumanComputerInteraction_CheckList_AR_3991.pdf)
-- [خلاصه ارزیابی درس روش پژوهش و ارائه](https://) 
+- [خلاصه ارزیابی درس روش پژوهش و ارائه](https://github.com/aminh58/PNU_3991_AR/blob/main/RPM/SAH_ResearchAndPresentationMethods_CheckList_AR_3991.pdf) 
 - [خلاصه ارزیابی درس کارآموزی](https://)
 - [خلاصه ارزیابی درس پروژه پایانی](https://)
 
