@@ -77,12 +77,12 @@
 
 <table dir="rtl" style="width:100%">
   <tr >
-    <th >16-18</th>
-    <th >14-16</th>
-    <th >12-14</th>
-    <th>10-12</th>
-    <th>8-10</th>
-    <th>روز</th>
+    <th dir="rtl">16-18</th>
+    <th dir="rtl">14-16</th>
+    <th dir="rtl">12-14</th>
+    <th dir="rtl">10-12</th>
+    <th dir="rtl">8-10</th>
+    <th dir="rtl">روز</th>
   </tr>
   <tr>
     <th >کارآموزی و پروژه</th>
