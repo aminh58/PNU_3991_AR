@@ -45,7 +45,8 @@
 ## درس مشابه از دانشگاه دیگر
 
 - [دانشگاه کمبریج _تعامل انسان و کامپیوتر](https://www.cl.cam.ac.uk/teaching/1011/HCI)
-- [روش پژوهش و ارائه HSE University](https://www.hse.ru/en/edu/courses/219865124) 
+- [روش پژوهش و ارائه HSE University](https://www.hse.ru/en/edu/courses/219865124)
+- [روش پژوهش و ارائه University of south Australia](https://lo.unisa.edu.au/pluginfile.php/1687751/mod_resource/content/0/Engineering%20research%20project%20-%20methodology%20Nov%202017.pdf)
 
 	
 -------------------------------------
