@@ -26,7 +26,7 @@
 - [خلاصه ارزیابی درس تعامل انسان و کامپیوتر](https://github.com/aminh58/PNU_3991_AR/blob/main/HCI/SAH_HumanComputerInteraction_CheckList_AR_3991.pdf)
 - [خلاصه ارزیابی درس روش پژوهش و ارائه](https://github.com/aminh58/PNU_3991_AR/blob/main/RPM/SAH_ResearchAndPresentationMethods_CheckList_AR_3991.pdf) 
 - [خلاصه ارزیابی درس کارآموزی](https://github.com/aminh58/PNU_3991_AR/blob/main/Internship/Intern.pdf)
-- [خلاصه ارزیابی درس پروژه پایانی](https://)
+- [خلاصه ارزیابی درس پروژه پایانی](https://github.com/aminh58/PNU_3991_AR/blob/main/Final%20project/Final%20Project.pdf)
 
 
 ---------------------------------------
